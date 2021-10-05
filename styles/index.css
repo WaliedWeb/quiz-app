@@ -1,0 +1,29 @@
+header{
+    display: flex;
+    justify-content: center;
+    border: 1px solid;
+}
+
+.bord {
+    border: 1px solid;
+    margin-top: 5%;
+}
+
+.show {
+    display: flex;
+    justify-content: center;
+    padding:
+}
+
+.tag-list {
+    display: flex;
+    justify-content: space-around;
+}
+  
+.tag {
+    display: inline-block;
+    background: steelblue;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 4px;
+}
